@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tashansadepa
 - 👀 I’m interested in python,html,css and javascript
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 09/01
 - 📫 How to reach me ...
 
 <!---
